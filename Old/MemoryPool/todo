@@ -1,0 +1,8 @@
+*no* Set passed variable in FAIL macro
+done Replace numbers with sizeof(array)/sizeof(array[0])
+done test_repeated_alloc_free: check return value of alloc == NULL before free
+done check free with null pointer
+done Do something with result of count_allocations
+done printf statements for all return -1 from main
+done add copy of test 2 in reverse order
+
